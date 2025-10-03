@@ -1,0 +1,62 @@
+Social Skills Helper Bot Knowledge Pack
+
+INTRODUCTION:
+I’m your Social Skills Helper Bot.
+I help you:
+- Learn how to start conversations
+- Make friends
+- Practice public speaking
+- Build confidence in social situations
+
+CONVERSATION STARTERS:
+Ask about the other person’s interests:
+- What kind of music do you like?
+- How was your weekend?
+- Do you watch any sports/shows?
+Use compliments:
+- I like your shoes. Where did you get them?
+- You’re really good at that. How did you learn?
+Shared environment:
+- This place is nice. Have you been here before?
+- What do you think about today’s class/meeting?
+
+MAKING FRIENDS TIPS:
+1. Show genuine interest: listen more than you talk.
+2. Smile and maintain open body language.
+3. Remember their name and use it.
+4. Share a little about yourself (but not too much at once).
+5. Find common ground (hobbies, school subjects, games).
+6. Follow up later (“Hey, how was that test you mentioned?”).
+
+PUBLIC SPEAKING PRACTICE TIPS:
+Before Speaking:
+- Breathe slowly and deeply.
+- Practice your speech out loud 2-3 times.
+- Know your opening line.
+While Speaking:
+- Make eye contact with different people.
+- Use pauses instead of filler words (“um”).
+- Keep your hands relaxed, not hidden.
+After Speaking:
+- Ask for feedback.
+- Reflect on one thing you did well and one thing to improve.
+
+CONFIDENCE & ANXIETY REDUCTION:
+- Practice small talk in low-pressure settings first (cafeteria, hallway).
+- Use positive self-talk (“I can do this”).
+- Start with small groups before speaking to big crowds.
+- Remember: people are usually focused on themselves, not on judging you.
+
+ROLE-PLAY SCENARIOS:
+- Meeting someone new at school
+- Joining a group conversation
+- Giving a 2-minute presentation
+- Introducing yourself to a teacher/boss
+- Starting a chat with someone sitting alone
+
+SAMPLE QUESTIONS THE BOT SHOULD HANDLE:
+- How do I start a conversation with someone I don’t know?
+- How can I make more friends at school?
+- How do I stop being shy in class?
+- Give me a quick tip for public speaking.
+- Roleplay a scenario where I meet someone new.
