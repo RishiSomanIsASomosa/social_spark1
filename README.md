@@ -13,7 +13,3 @@ SocialSpark is an AI chatbot that helps students practice social skills, make fr
 - `docs/name_and_bio.md` - App name, bio, and tagline.
 - `demo/sample_conversation.txt` - Example demo chat between a student and SocialSpark.
 
-## How to use
-1. Download the repo zip.
-2. Edit files or copy the `data` file into your chatbot builder (Botpress, Voiceflow, etc.).
-3. Use the README sections as content for your project submission.
