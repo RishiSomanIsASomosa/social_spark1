@@ -1,4 +1,4 @@
-# SocialSpark - Student Project
+# SocialSpark
 
 SocialSpark is an AI chatbot that helps students practice social skills, make friends, and build confidence in conversations and public speaking.
 
