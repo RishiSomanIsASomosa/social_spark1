@@ -1,15 +1,31 @@
 # SocialSpark
 
-SocialSpark is an AI chatbot that helps students practice social skills, make friends, and build confidence in conversations and public speaking.
+**SocialSpark** is a simple AI-powered chatbot that helps students practice conversations, improve social skills, 
+and build confidence in public speaking.
 
-## Repo Contents
-- `data/social_skills_helper_bot_data.txt` - Knowledge pack for the chatbot (conversation starters, tips, role-play).
-- `report/dataset_preprocessing_report.md` - Short report describing chosen dataset, preprocessing, and challenges.
-- `docs/features.md` - Key features list.
-- `docs/technical_approach.md` - Short technical approach.
-- `docs/expected_challenges.md` - Expected challenges.
-- `docs/submission_format.md` - Submission format.
-- `docs/expected_outcome.md` - Expected outcome (short).
-- `docs/name_and_bio.md` - App name, bio, and tagline.
-- `demo/sample_conversation.txt` - Example demo chat between a student and SocialSpark.
+## Features
+- Role-play conversation practice
+- Friendship and social tips
+- Public speaking coaching
 
+## How to Run
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Run the app:
+   ```bash
+   python app.py
+   ```
+3. Open your browser and go to:
+   ```
+   http://127.0.0.1:5000/
+   ```
+
+## Dataset
+The chatbot uses a small dataset in `data/sample_dataset.csv` with conversation starters, tips, and advice.
+
+## Future Improvements
+- Larger dataset with more examples
+- Smarter AI responses
+- Web interface with a chat UI
